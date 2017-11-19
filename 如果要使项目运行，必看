@@ -1,0 +1,2 @@
+由于项目中 node_modules 文件夹的过于庞大，上传时已将其删除，如需运行 可在命令行中 进入项目文件夹使用 cnpm install 命令将项目所需的包全部安装即可
+项目参考链接 http://www.jianshu.com/p/2a9367afe9e7
